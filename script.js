@@ -1,28 +1,28 @@
 // 갤러리 이미지 데이터
 const galleryImages = [
     {
-        src: "https://images.pexels.com/photos/1024993/pexels-photo-1024993.jpeg?auto=compress&cs=tinysrgb&w=800",
-        alt: "프로포즈 순간"
-    },
-    {
-        src: "https://images.pexels.com/photos/1444442/pexels-photo-1444442.jpeg?auto=compress&cs=tinysrgb&w=800",
-        alt: "데이트 사진"
-    },
-    {
-        src: "https://images.pexels.com/photos/1024866/pexels-photo-1024866.jpeg?auto=compress&cs=tinysrgb&w=800",
+        src: "./1.jpg",
         alt: "커플 사진"
     },
     {
-        src: "https://images.pexels.com/photos/1043473/pexels-photo-1043473.jpeg?auto=compress&cs=tinysrgb&w=800",
-        alt: "웨딩 촬영"
+        src: "./2.jpg",
+        alt: "커플 사진"
     },
     {
-        src: "https://images.pexels.com/photos/1488315/pexels-photo-1488315.jpeg?auto=compress&cs=tinysrgb&w=800",
-        alt: "행복한 순간"
+        src: "./3.jpg",
+        alt: "커플 사진"
     },
     {
-        src: "https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg?auto=compress&cs=tinysrgb&w=800",
-        alt: "사랑스러운 모습"
+        src: "./4.jpg",
+        alt: "커플 사진"
+    },
+    {
+        src: "./5.jpg",
+        alt: "커플 사진"
+    },
+    {
+        src: "./6.jpg",
+        alt: "커플 사진"
     }
 ];
 
